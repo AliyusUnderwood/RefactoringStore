@@ -14,15 +14,15 @@ Refactor a codebase to follow accessibility standards, so that the site is optim
 
 ## Before
 
-![Before Picture 1](/images/Screenshot%202024-02-08%20000627.png)
+![Before Picture 1](/assets/images/Screenshot%202024-02-08%20000627.png)
 
-![Before Picture 2](/images/Screenshot%202024-02-08%20000659.png)
+![Before Picture 2](/assets/images/Screenshot%202024-02-08%20000659.png)
 
 ## After
 
-![After Picture 1](/images/Screenshot%202024-02-08%20000943.png)
+![After Picture 1](/assets/images/Screenshot%202024-02-08%20000943.png)
 
-![After Picture 2](/images/Screenshot%202024-02-08%20001017.png)
+![After Picture 2](/assets/images/Screenshot%202024-02-08%20001017.png)
 
 
 ## URL
